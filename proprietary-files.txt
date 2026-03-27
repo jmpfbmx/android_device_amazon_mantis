@@ -43,7 +43,7 @@ vendor/lib/libglslcompiler.so
 vendor/lib/libhdmi.so
 vendor/lib/libhdmiservice.so
 vendor/lib/libgralloc_extra.so
-vendor/lib/libgui_ext.so
+vendor/lib/libgui_ext.so|6de687f116b24f42f63b6c9c23f4de96b03c95e6
 vendor/lib/libion_mtk.so
 vendor/lib/libm4u.so
 vendor/lib/libmemtrack_GL.so
